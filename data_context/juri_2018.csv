@@ -1,0 +1,198 @@
+﻿"cc_iso3c","legal_system","legal_civil","legal_common","legal_customary","legal_islamic","federal_state","government_type","state_type","parliament_type","lower_house","upper_house","pr_lower","pr_upper","pr_any","ref_year"
+"AFG","islamic",FALSE,FALSE,FALSE,TRUE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (majoritarian)","indirect election",FALSE,FALSE,FALSE,2018
+"ZAF","mixed",TRUE,TRUE,TRUE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral mixed parliament","directly elected (proportional)","appointed",TRUE,FALSE,TRUE,2018
+"ALB","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"DZA","mixed",TRUE,FALSE,FALSE,TRUE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (majoritarian)","indirect election",FALSE,FALSE,FALSE,2018
+"DEU","civil",TRUE,FALSE,FALSE,FALSE,TRUE,"parliamentary","federal parliamentry","bicameral mixed parliament","directly elected (mixed)","appointed",TRUE,FALSE,TRUE,2018
+"AND","customary",FALSE,FALSE,TRUE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"AGO","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"ATG","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral mixed parliament","directly elected (majoritarian)","appointed",FALSE,FALSE,FALSE,2018
+"SAU","islamic",FALSE,FALSE,FALSE,TRUE,FALSE,"monarchy","monarchy","no parliament",,,FALSE,FALSE,FALSE,2018
+"ARG","civil",TRUE,FALSE,FALSE,FALSE,TRUE,"presidential","federal presidential","bicameral elected parliament","directly elected (proportional)","proportional election",TRUE,TRUE,TRUE,2018
+"ARM","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"AUS","common",FALSE,TRUE,FALSE,FALSE,TRUE,"parliamentary","federal parliamentry","bicameral elected parliament","directly elected (majoritarian)","proportional election",FALSE,TRUE,TRUE,2018
+"AUT","civil",TRUE,FALSE,FALSE,FALSE,TRUE,"semi-presidential","federal presidential","bicameral elected parliament","directly elected (proportional)","proportional election",TRUE,TRUE,TRUE,2018
+"AZE","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"BHS","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral mixed parliament","directly elected (majoritarian)","appointed",FALSE,FALSE,FALSE,2018
+"BHR","mixed",TRUE,TRUE,TRUE,TRUE,FALSE,"monarchy","monarchy","bicameral mixed parliament","directly elected (majoritarian)","appointed",FALSE,FALSE,FALSE,2018
+"BGD","mixed",FALSE,TRUE,FALSE,TRUE,FALSE,"parliamentary","unitary parliamentry","unicameral mixed parliament","mixed system",,TRUE,FALSE,TRUE,2018
+"BRB","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral mixed parliament","directly elected (majoritarian)","appointed",FALSE,FALSE,FALSE,2018
+"BLR","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (majoritarian)","indirect election",FALSE,TRUE,TRUE,2018
+"BEL","civil",TRUE,FALSE,FALSE,FALSE,TRUE,"parliamentary","federal parliamentry","bicameral elected parliament","directly elected (proportional)","proportional election",TRUE,TRUE,TRUE,2018
+"BLZ","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral mixed parliament","directly elected (majoritarian)","appointed",FALSE,FALSE,FALSE,2018
+"BEN","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"BTN","mixed",FALSE,TRUE,TRUE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral elected parliament","directly elected (majoritarian)","majoritarian election",FALSE,FALSE,FALSE,2018
+"BOL","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (mixed)","proportional election",TRUE,TRUE,TRUE,2018
+"BIH","civil",TRUE,FALSE,FALSE,FALSE,TRUE,"semi-presidential","federal presidential","bicameral mixed parliament","directly elected (proportional)","appointed",TRUE,FALSE,TRUE,2018
+"BWA","mixed",TRUE,TRUE,TRUE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral mixed parliament","mixed system","appointed",FALSE,FALSE,FALSE,2018
+"BRA","civil",TRUE,FALSE,FALSE,FALSE,TRUE,"presidential","federal presidential","bicameral elected parliament","directly elected (proportional)","majoritarian election",TRUE,FALSE,TRUE,2018
+"BRN","mixed",FALSE,TRUE,TRUE,TRUE,FALSE,"monarchy","monarchy","unicameral mixed parliament","mixed system",,FALSE,FALSE,FALSE,2018
+"BGR","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"BFA","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"BDI","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (proportional)","indirect election",TRUE,FALSE,TRUE,2018
+"KHM","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral elected parliament","directly elected (proportional)","indirect election",TRUE,FALSE,TRUE,2018
+"CMR","mixed",TRUE,TRUE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (mixed)","indirect election",TRUE,TRUE,TRUE,2018
+"CAN","common",FALSE,TRUE,FALSE,FALSE,TRUE,"parliamentary","federal parliamentry","bicameral mixed parliament","directly elected (majoritarian)","appointed",FALSE,FALSE,FALSE,2018
+"CPV","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"CAF","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (majoritarian)","indirect election",FALSE,FALSE,FALSE,2018
+"CHL","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (proportional)","proportional election",TRUE,TRUE,TRUE,2018
+"CHN","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral mixed parliament","mixed system",,FALSE,FALSE,FALSE,2018
+"CYP","mixed",TRUE,TRUE,FALSE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"COL","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (proportional)","proportional election",TRUE,TRUE,TRUE,2018
+"COM","mixed",TRUE,FALSE,FALSE,TRUE,FALSE,"presidential","unitary presidential","unicameral mixed parliament","mixed system",,FALSE,FALSE,FALSE,2018
+"COG","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (majoritarian)","indirect election",FALSE,FALSE,FALSE,2018
+"PRK","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"KOR","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"CRI","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"CIV","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (majoritarian)","indirect election",FALSE,FALSE,FALSE,2018
+"HRV","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"CUB","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"DNK","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"DJI","mixed",TRUE,FALSE,TRUE,TRUE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"DMA","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"EGY","mixed",TRUE,FALSE,FALSE,TRUE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"SLV","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"ARE","mixed",FALSE,FALSE,TRUE,TRUE,TRUE,"monarchy","monarchy","unicameral mixed parliament","mixed system",,FALSE,FALSE,FALSE,2018
+"ECU","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"ERI","mixed",TRUE,FALSE,TRUE,TRUE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"ESP","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral elected parliament","directly elected (proportional)","majoritarian election",TRUE,TRUE,TRUE,2018
+"EST","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"USA","common",FALSE,TRUE,FALSE,FALSE,TRUE,"presidential","federal presidential","bicameral elected parliament","directly elected (majoritarian)","majoritarian election",FALSE,FALSE,FALSE,2018
+"ETH","mixed",TRUE,FALSE,TRUE,FALSE,TRUE,"parliamentary","federal parliamentry","bicameral elected parliament","directly elected (majoritarian)","majoritarian election",FALSE,FALSE,FALSE,2018
+"FJI","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"FIN","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"FRA","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (majoritarian)","indirect election",FALSE,TRUE,TRUE,2018
+"GAB","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (majoritarian)","indirect election",FALSE,FALSE,FALSE,2018
+"GMB","mixed",FALSE,TRUE,TRUE,TRUE,FALSE,"presidential","unitary presidential","unicameral mixed parliament","mixed system",,FALSE,FALSE,FALSE,2018
+"GEO","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"GHA","mixed",FALSE,TRUE,TRUE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"GRC","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"GRD","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral mixed parliament","directly elected (majoritarian)","appointed",FALSE,FALSE,FALSE,2018
+"GTM","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"GIN","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"GNQ","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"GNB","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"GUY","mixed",TRUE,TRUE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"HTI","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (majoritarian)","majoritarian election",FALSE,FALSE,FALSE,2018
+"HND","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"HUN","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"IND","mixed",FALSE,TRUE,TRUE,TRUE,TRUE,"parliamentary","federal parliamentry","bicameral mixed parliament","mixed system","indirect election",FALSE,TRUE,TRUE,2018
+"IDN","mixed",TRUE,FALSE,TRUE,TRUE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"IRN","mixed",TRUE,FALSE,FALSE,TRUE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"IRQ","mixed",TRUE,FALSE,FALSE,TRUE,TRUE,"parliamentary","federal parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"IRL","common",FALSE,TRUE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (proportional)","indirect election",TRUE,TRUE,TRUE,2018
+"ISL","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"ISR","mixed",TRUE,TRUE,FALSE,TRUE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"ITA","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral elected parliament","directly elected (proportional)","proportional election",TRUE,TRUE,TRUE,2018
+"JAM","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral mixed parliament","directly elected (majoritarian)","appointed",FALSE,FALSE,FALSE,2018
+"JPN","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral elected parliament","directly elected (mixed)","majoritarian election",TRUE,TRUE,TRUE,2018
+"JOR","mixed",TRUE,FALSE,TRUE,TRUE,FALSE,"monarchy","monarchy","bicameral mixed parliament","directly elected (mixed)","appointed",TRUE,FALSE,TRUE,2018
+"KAZ","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (proportional)","majoritarian election",TRUE,FALSE,TRUE,2018
+"KEN","mixed",FALSE,TRUE,TRUE,TRUE,FALSE,"presidential","unitary presidential","bicameral mixed parliament","mixed system","majoritarian election",FALSE,FALSE,FALSE,2018
+"KGZ","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"KIR","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"XKK","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"KWT","mixed",TRUE,FALSE,TRUE,TRUE,FALSE,"monarchy","monarchy","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"LAO","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"LSO","mixed",TRUE,TRUE,TRUE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral mixed parliament","directly elected (mixed)","appointed",TRUE,FALSE,TRUE,2018
+"LVA","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"LBN","mixed",TRUE,FALSE,FALSE,TRUE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"LBR","mixed",FALSE,TRUE,TRUE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (majoritarian)","majoritarian election",FALSE,FALSE,FALSE,2018
+"LBY","transitional",,,,,,,"transistional state","no parliament",,,FALSE,FALSE,FALSE,2018
+"LIE","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"LTU","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"LUX","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"MKD","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"MDG","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (mixed)","indirect election",TRUE,FALSE,TRUE,2018
+"MYS","mixed",FALSE,TRUE,TRUE,TRUE,TRUE,"parliamentary","federal parliamentry","bicameral elected parliament","directly elected (majoritarian)","indirect election",FALSE,FALSE,FALSE,2018
+"MWI","mixed",FALSE,TRUE,TRUE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"MDV","islamic",FALSE,FALSE,FALSE,TRUE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"MLI","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"MLT","mixed",TRUE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"MAR","mixed",TRUE,FALSE,FALSE,TRUE,FALSE,"monarchy","monarchy","bicameral elected parliament","directly elected (proportional)","proportional election",TRUE,TRUE,TRUE,2018
+"MHL","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"MUS","mixed",TRUE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"MRT","mixed",TRUE,FALSE,FALSE,TRUE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (mixed)","majoritarian election",TRUE,FALSE,TRUE,2018
+"MEX","civil",TRUE,FALSE,FALSE,FALSE,TRUE,"presidential","federal presidential","bicameral elected parliament","directly elected (mixed)","majoritarian election",TRUE,TRUE,TRUE,2018
+"FSM","mixed",FALSE,TRUE,TRUE,FALSE,TRUE,"presidential","federal presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"MDA","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"MCO","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"MNG","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"MNE","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"MOZ","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"MMR","mixed",FALSE,TRUE,TRUE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (majoritarian)","majoritarian election",FALSE,FALSE,FALSE,2018
+"NAM","mixed",TRUE,TRUE,FALSE,FALSE,FALSE,"presidential","unitary presidential","bicameral mixed parliament","mixed system","indirect election",TRUE,FALSE,TRUE,2018
+"NRU","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"NPL","mixed",FALSE,TRUE,TRUE,FALSE,TRUE,"parliamentary","federal parliamentry","bicameral elected parliament","directly elected (mixed)","indirect election",TRUE,FALSE,TRUE,2018
+"NIC","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"NER","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"NGA","mixed",FALSE,TRUE,TRUE,TRUE,TRUE,"presidential","federal presidential","bicameral elected parliament","directly elected (majoritarian)","majoritarian election",FALSE,FALSE,FALSE,2018
+"NOR","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"NZL","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"OMN","mixed",TRUE,FALSE,TRUE,TRUE,FALSE,"monarchy","monarchy","bicameral mixed parliament","directly elected (proportional)","appointed",TRUE,FALSE,TRUE,2018
+"UGA","mixed",FALSE,TRUE,TRUE,FALSE,FALSE,"presidential","unitary presidential","unicameral mixed parliament","mixed system",,FALSE,FALSE,FALSE,2018
+"UZB","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (majoritarian)","majoritarian election",FALSE,FALSE,FALSE,2018
+"PAK","mixed",FALSE,TRUE,FALSE,TRUE,TRUE,"parliamentary","federal parliamentry","bicameral elected parliament","directly elected (majoritarian)","proportional election",FALSE,TRUE,TRUE,2018
+"PLW","common",FALSE,TRUE,FALSE,FALSE,TRUE,"presidential","federal presidential","bicameral elected parliament","directly elected (majoritarian)","majoritarian election",FALSE,FALSE,FALSE,2018
+"PSE","mixed",TRUE,FALSE,FALSE,TRUE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"PAN","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"PNG","mixed",FALSE,TRUE,TRUE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"PRY","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (proportional)","proportional election",TRUE,TRUE,TRUE,2018
+"NLD","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral elected parliament","directly elected (proportional)","indirect election",TRUE,TRUE,TRUE,2018
+"PER","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"PHL","mixed",TRUE,TRUE,FALSE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (mixed)","majoritarian election",TRUE,FALSE,TRUE,2018
+"POL","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (proportional)","majoritarian election",TRUE,FALSE,TRUE,2018
+"PRT","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"QAT","mixed",TRUE,TRUE,TRUE,TRUE,FALSE,"monarchy","monarchy","bicameral mixed parliament",,"appointed",FALSE,FALSE,FALSE,2018
+"COD","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (mixed)","indirect election",TRUE,TRUE,TRUE,2018
+"DOM","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (proportional)","majoritarian election",TRUE,FALSE,TRUE,2018
+"CZE","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (proportional)","majoritarian election",TRUE,FALSE,TRUE,2018
+"ROU","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (mixed)","majoritarian election",TRUE,TRUE,TRUE,2018
+"GBR","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral mixed parliament","directly elected (majoritarian)","appointed",FALSE,FALSE,FALSE,2018
+"RUS","civil",TRUE,FALSE,FALSE,FALSE,TRUE,"semi-presidential","federal presidential","bicameral elected parliament","directly elected (proportional)","indirect election",TRUE,FALSE,TRUE,2018
+"RWA","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral mixed parliament","mixed system","indirect election",TRUE,FALSE,TRUE,2018
+"KNA","common",FALSE,TRUE,FALSE,FALSE,TRUE,"parliamentary","federal parliamentry","unicameral mixed parliament","mixed system",,FALSE,FALSE,FALSE,2018
+"SMR","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"VCT","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral mixed parliament","mixed system",,FALSE,FALSE,FALSE,2018
+"LCA","mixed",TRUE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral mixed parliament","directly elected (majoritarian)","appointed",FALSE,FALSE,FALSE,2018
+"SLB","mixed",FALSE,TRUE,TRUE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"WSM","mixed",FALSE,TRUE,TRUE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"STP","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"SEN","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"SRB","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"SYC","mixed",TRUE,TRUE,FALSE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"SLE","mixed",FALSE,TRUE,TRUE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"SGP","mixed",FALSE,TRUE,FALSE,TRUE,FALSE,"parliamentary","unitary parliamentry","unicameral mixed parliament","mixed system",,FALSE,FALSE,FALSE,2018
+"SVK","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"SVN","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","bicameral elected parliament","directly elected (proportional)","indirect election",TRUE,FALSE,TRUE,2018
+"SOM","transitional",,,,,,,"transistional state","no parliament",,,FALSE,FALSE,FALSE,2018
+"SDN","mixed",FALSE,TRUE,FALSE,TRUE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (mixed)","majoritarian election",TRUE,FALSE,TRUE,2018
+"SSD","transitional",,,,,,,"transistional state","no parliament",,,FALSE,FALSE,FALSE,2018
+"LKA","mixed",TRUE,TRUE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"SWE","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"CHE","civil",TRUE,FALSE,FALSE,FALSE,TRUE,"semi-presidential","federal presidential","bicameral elected parliament","directly elected (mixed)","majoritarian election",TRUE,TRUE,TRUE,2018
+"SUR","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"SWZ","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"monarchy","monarchy","bicameral mixed parliament","mixed system","indirect election",FALSE,FALSE,FALSE,2018
+"SYR","mixed",TRUE,FALSE,FALSE,TRUE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"TJK","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (majoritarian)","indirect election",FALSE,FALSE,FALSE,2018
+"TWN","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"TZA","mixed",FALSE,TRUE,TRUE,FALSE,FALSE,"presidential","unitary presidential","unicameral mixed parliament","mixed system",,FALSE,FALSE,FALSE,2018
+"TCD","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"THA","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral elected parliament","directly elected (mixed)","majoritarian election",TRUE,FALSE,TRUE,2018
+"TLS","mixed",TRUE,FALSE,TRUE,TRUE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"TGO","mixed",TRUE,FALSE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"TON","common",FALSE,TRUE,FALSE,FALSE,FALSE,"monarchy","monarchy","unicameral mixed parliament","mixed system",,FALSE,FALSE,FALSE,2018
+"TTO","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","bicameral mixed parliament","directly elected (majoritarian)","appointed",FALSE,FALSE,FALSE,2018
+"TUN","mixed",TRUE,FALSE,FALSE,TRUE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"TKM","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"TUR","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"TUV","common",FALSE,TRUE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"UKR","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"URY","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (proportional)","proportional election",TRUE,TRUE,TRUE,2018
+"VUT","mixed",TRUE,TRUE,TRUE,FALSE,FALSE,"semi-presidential","unitary presidential","unicameral elected parliament","directly elected (proportional)",,TRUE,FALSE,TRUE,2018
+"VAT","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"monarchy","monarchy","bicameral mixed parliament",,"appointed",FALSE,FALSE,FALSE,2018
+"VEN","civil",TRUE,FALSE,FALSE,FALSE,TRUE,"presidential","federal presidential","unicameral elected parliament","directly elected (mixed)",,TRUE,FALSE,TRUE,2018
+"VNM","civil",TRUE,FALSE,FALSE,FALSE,FALSE,"parliamentary","unitary parliamentry","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"YEM","mixed",TRUE,TRUE,TRUE,TRUE,FALSE,"presidential","unitary presidential","bicameral mixed parliament","directly elected (majoritarian)","appointed",FALSE,FALSE,FALSE,2018
+"ZMB","mixed",FALSE,TRUE,TRUE,FALSE,FALSE,"presidential","unitary presidential","unicameral elected parliament","directly elected (majoritarian)",,FALSE,FALSE,FALSE,2018
+"ZWE","mixed",TRUE,TRUE,TRUE,FALSE,FALSE,"presidential","unitary presidential","bicameral elected parliament","directly elected (mixed)","proportional election",TRUE,TRUE,TRUE,2018

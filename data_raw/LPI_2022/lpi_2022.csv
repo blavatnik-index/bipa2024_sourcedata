@@ -1,0 +1,267 @@
+﻿"ind_id","ind_nm","cty_id","cty_nm","cty_iso","date","value","unit","obs_sttus","decimal"
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ZH","Africa Eastern and Southern","AFE","2022",2.32727272727273,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ZI","Africa Western and Central","AFW","2022",2.30666666666667,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","1A","Arab World","ARB","2022",2.5375,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","S3","Caribbean small states","CSS","2022",2.36666666666667,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","B8","Central Europe and the Baltics","CEB","2022",3.10909090909091,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","V2","Early-demographic dividend","EAR","2022",2.53023255813953,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","Z4","East Asia & Pacific","EAS","2022",3.11052631578947,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","4E","East Asia & Pacific (excluding high income)","EAP","2022",2.725,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","T4","East Asia & Pacific (IDA & IBRD countries)","TEA","2022",2.725,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XC","Euro area","EMU","2022",3.455,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","Z7","Europe & Central Asia","ECS","2022",3.12608695652174,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","7E","Europe & Central Asia (excluding high income)","ECA","2022",2.53529411764706,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","T7","Europe & Central Asia (IDA & IBRD countries)","TEC","2022",2.61,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","EU","European Union","EUU","2022",3.41111111111111,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","F1","Fragile and conflict affected situations","FCS","2022",2.19047619047619,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XE","Heavily indebted poor countries (HIPC)","HPC","2022",2.24166666666667,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XD","High income","","2022",3.3811320754717,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XF","IBRD only","IBD","2022",2.61481481481481,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ZT","IDA & IBRD total","IBT","2022",2.47553191489362,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XH","IDA blend","IDB","2022",2.3625,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XI","IDA only","IDX","2022",2.26875,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XG","IDA total","IDA","2022",2.2875,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","V3","Late-demographic dividend","LTE","2022",2.80769230769231,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ZJ","Latin America & Caribbean","LCN","2022",2.476,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XJ","Latin America & Caribbean (excluding high income)","LAC","2022",2.44117647058824,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","T2","Latin America & the Caribbean (IDA & IBRD countries)","TLA","2022",2.48695652173913,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XL","Least developed countries: UN classification","LDC","2022",2.19583333333333,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XO","Low & middle income","LMY","2022",2.44588235294118,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XM","Low income","","2022",2.14,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XN","Lower middle income","","2022",2.409375,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ZQ","Middle East & North Africa","MEA","2022",2.74375,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XQ","Middle East & North Africa (excluding high income)","MNA","2022",2.225,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","T3","Middle East & North Africa (IDA & IBRD countries)","TMN","2022",2.225,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XP","Middle income","MIC","2022",2.51142857142857,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XU","North America","NAC","2022",3.85,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XY","Not classified","","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","OE","OECD members","OED","2022",3.47105263157895,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","S4","Other small states","OSS","2022",2.81333333333333,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","S2","Pacific island small states","PSS","2022",2.35,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","V4","Post-demographic dividend","PST","2022",3.44166666666667,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","V1","Pre-demographic dividend","PRE","2022",2.175,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","S1","Small states","SST","2022",2.65652173913043,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","8S","South Asia","SAS","2022",2.52,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","T5","South Asia (IDA & IBRD)","TSA","2022",2.52,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ZG","Sub-Saharan Africa","SSF","2022",2.31538461538462,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ZF","Sub-Saharan Africa (excluding high income)","SSA","2022",2.31538461538462,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","T6","Sub-Saharan Africa (IDA & IBRD countries)","TSS","2022",2.31538461538462,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XT","Upper middle income","","2022",2.59736842105263,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","1W","World","WLD","2022",2.8,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","AF","Afghanistan","AFG","2022",2.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","AL","Albania","ALB","2022",2.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","DZ","Algeria","DZA","2022",2.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","AS","American Samoa","ASM","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","AD","Andorra","AND","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","AO","Angola","AGO","2022",1.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","AG","Antigua and Barbuda","ATG","2022",2.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","AR","Argentina","ARG","2022",2.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","AM","Armenia","ARM","2022",2.5,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","AW","Aruba","ABW","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","AU","Australia","AUS","2022",3.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","AT","Austria","AUT","2022",3.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","AZ","Azerbaijan","AZE","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BS","Bahamas, The","BHS","2022",2.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BH","Bahrain","BHR","2022",3.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BD","Bangladesh","BGD","2022",2.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BB","Barbados","BRB","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BY","Belarus","BLR","2022",2.6,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BE","Belgium","BEL","2022",3.9,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BZ","Belize","BLZ","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BJ","Benin","BEN","2022",2.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BM","Bermuda","BMU","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BT","Bhutan","BTN","2022",2.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BO","Bolivia","BOL","2022",2.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BA","Bosnia and Herzegovina","BIH","2022",2.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BW","Botswana","BWA","2022",3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BR","Brazil","BRA","2022",2.9,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","VG","British Virgin Islands","VGB","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BN","Brunei Darussalam","BRN","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BG","Bulgaria","BGR","2022",3.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BF","Burkina Faso","BFA","2022",2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","BI","Burundi","BDI","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CV","Cabo Verde","CPV","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","KH","Cambodia","KHM","2022",2.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CM","Cameroon","CMR","2022",2.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CA","Canada","CAN","2022",4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","KY","Cayman Islands","CYM","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CF","Central African Republic","CAF","2022",2.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","TD","Chad","TCD","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","JG","Channel Islands","CHI","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CL","Chile","CHL","2022",3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CN","China","CHN","2022",3.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CO","Colombia","COL","2022",2.5,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","KM","Comoros","COM","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CD","Congo, Dem. Rep.","COD","2022",2.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CG","Congo, Rep.","COG","2022",2.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CR","Costa Rica","CRI","2022",2.8,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CI","Cote d'Ivoire","CIV","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","HR","Croatia","HRV","2022",3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CU","Cuba","CUB","2022",2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CW","Curacao","CUW","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CY","Cyprus","CYP","2022",2.9,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CZ","Czechia","CZE","2022",3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","DK","Denmark","DNK","2022",4.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","DJ","Djibouti","DJI","2022",2.6,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","DM","Dominica","DMA","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","DO","Dominican Republic","DOM","2022",2.6,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","EC","Ecuador","ECU","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","EG","Egypt, Arab Rep.","EGY","2022",2.8,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SV","El Salvador","SLV","2022",2.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GQ","Equatorial Guinea","GNQ","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ER","Eritrea","ERI","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","EE","Estonia","EST","2022",3.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SZ","Eswatini","SWZ","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ET","Ethiopia","ETH","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","FO","Faroe Islands","FRO","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","FJ","Fiji","FJI","2022",2.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","FI","Finland","FIN","2022",4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","FR","France","FRA","2022",3.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","PF","French Polynesia","PYF","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GA","Gabon","GAB","2022",2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GM","Gambia, The","GMB","2022",1.8,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GE","Georgia","GEO","2022",2.6,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","DE","Germany","DEU","2022",3.9,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GH","Ghana","GHA","2022",2.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GI","Gibraltar","GIB","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GR","Greece","GRC","2022",3.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GL","Greenland","GRL","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GD","Grenada","GRD","2022",2.6,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GU","Guam","GUM","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GT","Guatemala","GTM","2022",2.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GN","Guinea","GIN","2022",2.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GW","Guinea-Bissau","GNB","2022",2.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GY","Guyana","GUY","2022",2.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","HT","Haiti","HTI","2022",2.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","HN","Honduras","HND","2022",2.8,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","HK","Hong Kong SAR, China","HKG","2022",3.8,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","HU","Hungary","HUN","2022",2.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","IS","Iceland","ISL","2022",3.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","IN","India","IND","2022",3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ID","Indonesia","IDN","2022",2.8,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","IR","Iran, Islamic Rep.","IRN","2022",2.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","IQ","Iraq","IRQ","2022",2.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","IE","Ireland","IRL","2022",3.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","IM","Isle of Man","IMN","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","IL","Israel","ISR","2022",3.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","IT","Italy","ITA","2022",3.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","JM","Jamaica","JAM","2022",2.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","JP","Japan","JPN","2022",3.9,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","JO","Jordan","JOR","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","KZ","Kazakhstan","KAZ","2022",2.6,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","KE","Kenya","KEN","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","KI","Kiribati","KIR","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","KP","Korea, Dem. People's Rep.","PRK","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","KR","Korea, Rep.","KOR","2022",3.9,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","XK","Kosovo","XKX","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","KW","Kuwait","KWT","2022",3.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","KG","Kyrgyz Republic","KGZ","2022",2.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","LA","Lao PDR","LAO","2022",2.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","LV","Latvia","LVA","2022",3.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","LB","Lebanon","LBN","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","LS","Lesotho","LSO","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","LR","Liberia","LBR","2022",2.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","LY","Libya","LBY","2022",1.9,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","LI","Liechtenstein","LIE","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","LT","Lithuania","LTU","2022",3.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","LU","Luxembourg","LUX","2022",3.6,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MO","Macao SAR, China","MAC","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MG","Madagascar","MDG","2022",1.8,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MW","Malawi","MWI","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MY","Malaysia","MYS","2022",3.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MV","Maldives","MDV","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ML","Mali","MLI","2022",2.6,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MT","Malta","MLT","2022",3.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MH","Marshall Islands","MHL","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MR","Mauritania","MRT","2022",2.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MU","Mauritius","MUS","2022",2.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MX","Mexico","MEX","2022",2.5,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","FM","Micronesia, Fed. Sts.","FSM","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MD","Moldova","MDA","2022",1.9,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MC","Monaco","MCO","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MN","Mongolia","MNG","2022",2.5,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ME","Montenegro","MNE","2022",2.6,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MA","Morocco","MAR","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MZ","Mozambique","MOZ","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MM","Myanmar","MMR","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","NA","Namibia","NAM","2022",2.8,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","NR","Nauru","NRU","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","NP","Nepal","NPL","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","NL","Netherlands","NLD","2022",3.9,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","NC","New Caledonia","NCL","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","NZ","New Zealand","NZL","2022",3.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","NI","Nicaragua","NIC","2022",2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","NE","Niger","NER","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","NG","Nigeria","NGA","2022",2.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MK","North Macedonia","MKD","2022",3.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MP","Northern Mariana Islands","MNP","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","NO","Norway","NOR","2022",3.8,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","OM","Oman","OMN","2022",3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","PK","Pakistan","PAK","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","PW","Palau","PLW","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","PA","Panama","PAN","2022",3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","PG","Papua New Guinea","PNG","2022",2.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","PY","Paraguay","PRY","2022",2.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","PE","Peru","PER","2022",2.6,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","PH","Philippines","PHL","2022",2.8,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","PL","Poland","POL","2022",3.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","PT","Portugal","PRT","2022",3.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","PR","Puerto Rico","PRI","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","QA","Qatar","QAT","2022",3.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","RO","Romania","ROU","2022",2.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","RU","Russian Federation","RUS","2022",2.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","RW","Rwanda","RWA","2022",2.5,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","WS","Samoa","WSM","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SM","San Marino","SMR","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ST","Sao Tome and Principe","STP","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SA","Saudi Arabia","SAU","2022",3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SN","Senegal","SEN","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","RS","Serbia","SRB","2022",2.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SC","Seychelles","SYC","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SL","Sierra Leone","SLE","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SG","Singapore","SGP","2022",4.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SX","Sint Maarten (Dutch part)","SXM","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SK","Slovak Republic","SVK","2022",3.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SI","Slovenia","SVN","2022",3.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SB","Solomon Islands","SLB","2022",2.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SO","Somalia","SOM","2022",1.5,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ZA","South Africa","ZAF","2022",3.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SS","South Sudan","SSD","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ES","Spain","ESP","2022",3.6,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","LK","Sri Lanka","LKA","2022",2.5,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","KN","St. Kitts and Nevis","KNA","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","LC","St. Lucia","LCA","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","MF","St. Martin (French part)","MAF","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","VC","St. Vincent and the Grenadines","VCT","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SD","Sudan","SDN","2022",2.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SR","Suriname","SUR","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SE","Sweden","SWE","2022",4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","CH","Switzerland","CHE","2022",4.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","SY","Syrian Arab Republic","SYR","2022",2.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","TJ","Tajikistan","TJK","2022",2.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","TZ","Tanzania","TZA","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","TH","Thailand","THA","2022",3.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","TL","Timor-Leste","TLS","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","TG","Togo","TGO","2022",2.3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","TO","Tonga","TON","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","TT","Trinidad and Tobago","TTO","2022",2.2,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","TN","Tunisia","TUN","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","TR","Turkiye","TUR","2022",3,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","TM","Turkmenistan","TKM","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","TC","Turks and Caicos Islands","TCA","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","TV","Tuvalu","TUV","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","UG","Uganda","UGA","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","UA","Ukraine","UKR","2022",2.4,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","AE","United Arab Emirates","ARE","2022",3.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","GB","United Kingdom","GBR","2022",3.5,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","US","United States","USA","2022",3.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","UY","Uruguay","URY","2022",2.9,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","UZ","Uzbekistan","UZB","2022",2.6,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","VU","Vanuatu","VUT","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","VE","Venezuela, RB","VEN","2022",2.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","VN","Viet Nam","VNM","2022",3.1,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","VI","Virgin Islands (U.S.)","VIR","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","PS","West Bank and Gaza","PSE","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","YE","Yemen, Rep.","YEM","2022",1.7,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ZM","Zambia","ZMB","2022",NA,"","",2
+"LP.LPI.CUST.XQ","Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)","ZW","Zimbabwe","ZWE","2022",2.2,"","",2
